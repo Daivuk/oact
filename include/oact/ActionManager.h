@@ -2,6 +2,7 @@
 
 #include <functional>
 #include <cinttypes>
+#include <memory>
 #include <string>
 #include <vector>
 
